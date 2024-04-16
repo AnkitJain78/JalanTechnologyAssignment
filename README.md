@@ -41,3 +41,13 @@ This program implements a Zoo Ticketing Software using Object-Oriented Programmi
    ```bash
    npm i
 
+## Screenshots
+
+![Create Guest](Q2/Screenshots/Create%20Guest.png)
+![File](Q2/Screenshots/file.png)
+![All Tickets](Q2/Screenshots/AllTickets.png)
+![Ticket Not Found](Q2/Screenshots/TickedNotFound.png)
+![Ticket Found Issued](Q2/Screenshots/TicketFoundIssued.png)
+![Validation](Q2/Screenshots/Validation.png)
+
+
